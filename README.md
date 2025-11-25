@@ -173,13 +173,13 @@ Thanks for playing! Your final score: 120
 ##Authors and Acknowledgement:
 
 **Authors:**
-- *Hariz Jeremie C. Garcia*
-(*24-06295@g.batstate-u.edu.ph*)
-- *Cxyanel Adriane D. Evangelist*
+- Evangelista, Cxyanel Adriane D.*
 (*24-03563@g.batstate-u.edu.ph*)
-- *Ahlson Jared Giovanni E. Magboo*
+- *Garcia, Hariz Jeremie C.*
+(*24-06295@g.batstate-u.edu.ph*)
+- *Magboo, Ahlson Jared Giovanni E.*
 (*24-09166@g.batstate-u.edu.ph*)
-- *John Andrew C. Sanchez*
+- *Sanchez, John Andrew C.*
 (*24-06902@g.batstate-u.edu.ph*)
 
 **Acknowledgements:**  
