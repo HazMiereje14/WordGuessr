@@ -6,7 +6,7 @@
 **Problem it solves:** This project demonstrate a simple word guessing game is created with the use of OOP principles, sharpening thinking skills and imagination.
 
 ## OOP Concepts Applied:
-- **Encapsulation:** `Difficulties` abstract class defines the common interface for different difficulties.
+- **Encapsulation:** `subDifficulties` abstract class defines the common interface for different difficulties.
 - **Inheritance:** `Easy`, `Medium`, `Hard` extend `Difficulties`, specifying their own word data and parameters.
 - **Polymorphism:** Word lists, attempts, word length, and answer are encapsulated inside `Difficulties` subclasses, accessed via getters.
 - **Abstraction:** The main class uses a `Difficulties` reference, dynamically invoking subclass methods (`loadWords`, getters) without knowing exact type.
@@ -30,7 +30,7 @@
 MainApp
  │
 Difficulty (abstract)
- ├── SubDiff (abstract)
+ └── subDifficulties (abstract)
      ├── Easy
      ├── Medium
      └── Hard
